@@ -118,5 +118,6 @@ object Projet_Scala extends App {
   }
   // Utilisation de la fonction, il n'y a plus qu'à choisir quelle tondeuse utiliser.
   // On pourra aussi changer les paramètres de déplacement s'il on le souhaite ou bien modifier les paramètres du terrain.
+  Tonte_de_la_pelouse(tondeuse1)
   Tonte_de_la_pelouse(tondeuse2)
 }
