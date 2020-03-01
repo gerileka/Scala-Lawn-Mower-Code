@@ -1,6 +1,8 @@
 # Projet-Scala-Lawn Mower
 _Introduction to Scala Academic Project. Work done with my team mate [Louis Grunenwald](https://github.com/LouisGrunenwald)._
 
+___Explanation in the code will be in French.___
+
 ---
 
 ## Features #
