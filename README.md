@@ -6,7 +6,7 @@ ___Explanation in the code will be in French.___
 ---
 
 ## Features #
-This python program implements an automatic lawn mowing for rectangular surfaces.
+This Scala program implements an automatic lawn mowing for rectangular surfaces.
 * Each mower can be programmed to cover the entire surface.
 * The position of the mower is represented by a combination of coordinates (x, y) and a letter indicating the orientation according to the English cardinal notation (N, E, W, S). The lawn is divided into a grid to simplify navigation.
 * To control the mower, we send him a simple sequence of letters. The possible letters are "D", "G" and "A". "D" and "G" rotate the mower 90 ° right or left respectively, without moving it. "A" means that the mower is moved one step in the direction it faces, and without changing its orientation.
